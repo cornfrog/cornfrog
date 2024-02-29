@@ -50,3 +50,4 @@
 ### My GitHub History! 📈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cornfrog&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cornfrog&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:640064)
