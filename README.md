@@ -3,7 +3,7 @@
 ### I'm Cornfrog!
 - 🚀 I worked on [Token Tracker](https://github.com/cornfrog/Token-Tracker). Check it out!
 - 🌱 I’m currently learning Typescript and NextJS.
-- 🤔 I’m looking for help with full stack app hosting.
+- 🤔 I’m looking for help with find resources for data structures and algorithms.
 
 ### About Me 👨‍💻
 ```js
