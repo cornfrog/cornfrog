@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%20There%20👋!&fontColor=FFFFFF&color=0:006400,100:640064)
 
 ### I'm Cornfrog!
-- 🚀 I worked on [Token Tracker](https://github.com/cornfrog/Token-Tracker). Check it out!
-- 🌱 I’m currently learning Typescript and NextJS.
-- 🤔 I’m looking for help with find resources for data structures and algorithms.
+- 🚀 I'm currently working on [Pierce Prints](pierceprints.vercel.app). Check it out!
+- 🌱 I’m currently learning Wordpress.
+- 🤔 I’m looking for any opportunity that comes my way.
 
 ### About Me 👨‍💻
 ```js
